@@ -1,0 +1,2 @@
+module tb_sample_ntt;
+endmodule
